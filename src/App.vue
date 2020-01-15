@@ -441,7 +441,7 @@ export default {
     text-align: center;
     margin: 0 auto;
     overflow-y: scroll;
-    height: 800px;
+    max-height: 700px;
   }
   .itemres {
     // background: #fff;
